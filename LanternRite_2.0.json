@@ -1,0 +1,53 @@
+{
+    "manifest": {
+        "version": "2.0.0",
+        "name": "Lantern Rite",
+        "author": "Lanney",
+        "updater": "https:\/\/raw.githubusercontent.com\/ahar2611\/LanternRite\/main\/LanternRite.json"
+    },
+    "background": {
+        "blur_radius": 3,
+        "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/913560114504548362\/shaoying-neo-8.jpg",
+        "overlay_alpha": 150
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/913621584420421703\/MavenPro-Bold.ttf"
+    },
+    "simple_colors": {
+        "background": 623385904,
+        "background_secondary": 624305722,
+        "accent": -8110684,
+        "mention_highlight": 629764269,
+        "input_background": 1461721128,
+        "statusbar": 0,
+        "active_channel": -1339288265
+    },
+    "colors": {
+        "link": -8110684,
+        "primary_dark_700": 421599272,
+        "primary_600": 408969200,
+        "primary_dark_660": -1541400536,
+        "primary_dark_800": -1122365149,
+        "uikit_btn_bg_color_selector_red": -11590544,
+        "brand_new_560": -8110684,
+        "link_500": -8110684,
+        "uikit_btn_compound_color_selector_dark": -7775598,
+        "primary_700": 1712918048,
+        "primary_630": 421928240,
+        "uikit_btn_compound_color_selector_light": -7775598,
+        "primary_700_alpha_60": 411654802,
+        "uikit_settings_item_text_color_light": -7775598,
+        "brand_500_alpha_20": 609630299,
+        "primary_dark_300": -8110684,
+        "primary_dark_360": -7838827
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -8110684,
+        "ic_sidebar_notifications_on_dark_24dp": -8110684,
+        "ic_sidebar_pins_on_dark_24dp": -8110684,
+        "ic_sidebar_pins_off_dark_24dp": -8110684,
+        "ic_sidebar_search_24dp": -8110684,
+        "ic_thread": -8110684
+    },
+    "raws": {}
+}
