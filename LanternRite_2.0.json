@@ -3,7 +3,7 @@
         "version": "2.0.0",
         "name": "Lantern Rite",
         "author": "Lanney",
-        "updater": "https:\/\/raw.githubusercontent.com\/ahar2611\/LanternRite\/main\/LanternRite.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/ahar2611\/LanternRite\/main\/LanternRite_2.0.json"
     },
     "background": {
         "blur_radius": 3,
